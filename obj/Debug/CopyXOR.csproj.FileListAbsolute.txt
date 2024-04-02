@@ -1,0 +1,11 @@
+C:\CopyXOR\bin\Debug\CopyXOR.exe.config
+C:\CopyXOR\bin\Debug\CopyXOR.exe
+C:\CopyXOR\bin\Debug\CopyXOR.pdb
+C:\CopyXOR\obj\Debug\CopyXOR.csproj.AssemblyReference.cache
+C:\CopyXOR\obj\Debug\CopyXOR.csproj.SuggestedBindingRedirects.cache
+C:\CopyXOR\obj\Debug\CopyXOR.Form1.resources
+C:\CopyXOR\obj\Debug\CopyXOR.Properties.Resources.resources
+C:\CopyXOR\obj\Debug\CopyXOR.csproj.GenerateResource.cache
+C:\CopyXOR\obj\Debug\CopyXOR.csproj.CoreCompileInputs.cache
+C:\CopyXOR\obj\Debug\CopyXOR.exe
+C:\CopyXOR\obj\Debug\CopyXOR.pdb
